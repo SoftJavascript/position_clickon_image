@@ -1,0 +1,1 @@
+# position_clickon_image
